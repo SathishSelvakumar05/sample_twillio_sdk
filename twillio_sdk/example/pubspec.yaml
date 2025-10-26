@@ -1,5 +1,8 @@
 name: twillio_sdk_example
 description: "Demonstrates how to use the twillio_sdk plugin."
+homepage: "https://github.com/SathishSelvakumar05/sample_twillio_sdk"
+repository: "https://github.com/SathishSelvakumar05/sample_twillio_sdk.git"
+
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev

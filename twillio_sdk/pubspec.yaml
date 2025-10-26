@@ -1,7 +1,9 @@
 name: twillio_sdk
 description: "A new Flutter plugin project."
+homepage: "https://github.com/SathishSelvakumar05/sample_twillio_sdk"
+repository: "https://github.com/SathishSelvakumar05/sample_twillio_sdk.git"
 version: 0.0.1
-homepage:
+#homepage:
 
 environment:
   sdk: ^3.9.0
