@@ -1,5 +1,5 @@
 name: twillio_sdk
-description: "A new Flutter plugin project."
+description: A Flutter plugin for integrating Twilio Video SDK with native Android and iOS support
 homepage: "https://github.com/SathishSelvakumar05/sample_twillio_sdk"
 repository: "https://github.com/SathishSelvakumar05/sample_twillio_sdk.git"
 version: 0.0.1
