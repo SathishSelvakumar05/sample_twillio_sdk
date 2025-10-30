@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 
 import 'Twillio/Screens/Twillio.dart';
-import 'Twillio/Screens/sample_screen.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
