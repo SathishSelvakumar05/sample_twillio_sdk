@@ -1,5 +1,8 @@
 name: twillio_sdk
-description: "A new Flutter project."
+description: "description: >
+  ⚠️ This package is no longer maintained. 
+  Please use my new package instead: [twillio_android](https://pub.dev/packages/twillio_android)
+"
 homepage: "https://github.com/SathishSelvakumar05/sample_twillio_sdk"
 repository: "https://github.com/SathishSelvakumar05/sample_twillio_sdk.git"
 

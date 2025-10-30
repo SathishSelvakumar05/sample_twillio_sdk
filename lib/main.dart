@@ -20,8 +20,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
       ),
-      home: const VideoCallScreen(accessToken: "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImN0eSI6InR3aWxpby1mcGE7dj0xIn0.eyJqdGkiOiJTSzkwN2JmNmUyMzhlZDJmY2RmNDk5MTk1OTkzNmI4YjNkLTE3NjEzMDgzNTciLCJncmFudHMiOnsidmlkZW8iOnsicm9vbSI6IlNERFBST0QzMzlDQVNFIn0sImlkZW50aXR5IjoiNjM4MTYxMDA0OCJ9LCJpc3MiOiJTSzkwN2JmNmUyMzhlZDJmY2RmNDk5MTk1OTkzNmI4YjNkIiwibmJmIjoxNzYxMzA4MzU3LCJleHAiOjE3NjEzMTE5NTcsInN1YiI6IkFDMTQ2MjMwMWMyOTI2NTk5MWU4YThlYzY5OWJkMWQxZjIifQ.gNp5IVz4DIAvF5r1ul0a4Dc_HiSKnX9lUaGpat4GwBc",
-        roomName: "SDDPROD339CASE",),
+      home: const VideoCallScreen(accessToken: "",roomName: "",),
     );
   }
 }

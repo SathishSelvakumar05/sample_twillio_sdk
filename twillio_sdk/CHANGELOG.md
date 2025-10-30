@@ -1,4 +1,6 @@
 # Changelog
 
 ## 0.0.1
-- Initial release of twillio_sdk plugin.
+⚠️ This package is no longer maintained.  
+Please use the new package instead: [twillio_android](https://pub.dev/packages/twillio_android)
+

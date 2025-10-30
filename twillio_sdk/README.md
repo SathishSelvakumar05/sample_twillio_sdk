@@ -1,15 +1,8 @@
-# twillio_sdk
+# ⚠️ Package Discontinued
 
-A new Flutter plugin project.
+This package is **no longer maintained or supported**.
 
-## Getting Started
+👉 Please use the new and improved package instead:  
+**[twillio_android](https://pub.dev/packages/twillio_android)**
 
-This project is a starting point for a Flutter
-[plug-in package](https://flutter.dev/to/develop-plugins),
-a specialized package that includes platform-specific implementation code for
-Android and/or iOS.
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
+Thank you for your support!
